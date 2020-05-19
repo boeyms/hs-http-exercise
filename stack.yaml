@@ -1,0 +1,4 @@
+# At time of writing, all-hies only supports up to GHC 8.8.2, and LTS 15.3 is
+# the latest resolver with that.  Using HIE with later versions requires
+# installation from source.
+resolver: lts-15.13
